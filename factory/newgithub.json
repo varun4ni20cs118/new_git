@@ -1,0 +1,9 @@
+{
+	"name": "newgithub",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f26c2337-7e5a-48f2-9858-0419ecb4519a",
+		"tenantId": "54f98e1b-94f2-40d8-9790-8e63cbc86ea1"
+	}
+}
